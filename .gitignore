@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+blog.kaloper.club_nginx/
+kaloper.club_nginx/

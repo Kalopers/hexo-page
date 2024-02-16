@@ -4,4 +4,4 @@ Function
 - Build a blog page
 - Automatically detect post updates and push them
 
-Welcome to: (blog.kaloper.club)
+Welcome to: <blog.kaloper.club>

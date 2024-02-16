@@ -1,3 +1,7 @@
 # Pages_Hexo_src
 
-Blog Repo source.
+Function
+- Build a blog page
+- Automatically detect post updates and push them
+
+Welcome to: blog.kaloper.club
